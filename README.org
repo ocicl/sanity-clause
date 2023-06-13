@@ -1,0 +1,10 @@
+* sanity-clause
+
+A data serialization/contract library for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fisxoj/sanity-clause.git   |
+| commit  | 023640c  |
+| systems | sanity-clause |
+|---------+-------------------------------------------|
+
