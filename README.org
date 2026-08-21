@@ -4,7 +4,7 @@ A data serialization/contract library for common lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/fisxoj/sanity-clause.git   |
-| commit  | a99499f  |
+| commit  | d053842  |
 | systems | sanity-clause |
 |---------+-------------------------------------------|
 
